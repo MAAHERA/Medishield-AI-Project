@@ -1,0 +1,10 @@
+{
+  "name": "MediShield AI - Medicine Packaging Screening",
+  "description": "AI-assisted preliminary medicine packaging screening application to detect packaging warning signs and extract batch details.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
